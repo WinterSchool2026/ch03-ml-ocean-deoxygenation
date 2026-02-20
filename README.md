@@ -1,4 +1,4 @@
-# ch03-ml-ocean-deoxygenation
+# Using machine learning to assess ocean deoxygenation trends in space and time
 
 ## Description
 
@@ -19,5 +19,5 @@ trends. This challenge can possibly be extended beyond the duration of the summe
 
 ## Recommended reading material
 
-Sharp et al. (2023): [https://doi.org/10.5194/essd-15-4481-2023](https://doi.org/10.5194/essd-15-4481-2023)
-Ito et al. (2024): [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JH000272](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JH000272)
+- Sharp et al. (2023): [https://doi.org/10.5194/essd-15-4481-2023](https://doi.org/10.5194/essd-15-4481-2023)
+- Ito et al. (2024): [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JH000272](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JH000272)
