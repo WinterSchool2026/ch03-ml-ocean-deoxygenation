@@ -1,25 +1,32 @@
-# Using machine learning to assess ocean deoxygenation trends in space and time
-
+# Is the Mediterranean Sea losing its breath?
 ## Description
+The ocean plays a fundamental role in regulating Earth’s climate, and it has absorbed ~90% of the excess heat and ~25% of the CO2 emissions generated from human activities. However, this climate service has caused severe threats to the health of marine ecosystems, including ocean warming, acidification, and deoxygenation, which have both environmental and socioeconomical consequences. Therefore, it is crucial to ensure that the state of the ocean is properly monitored and changes are detected promptly. 
 
-In this challenge, participants will be tasked with adapting currently available
-machine learning models to assess global and regional trends of ocean deoxygenation, as
-well as identify their potential drivers and effects on the ecosystem. In situ measurements of
-O2 will be provided from the BGC-Argo and GLODAPv2 datasets, together with the
-backbone of the code to use as starting point. Key questions to explore include:
+In this challenge, you are tasked with filling the observational gaps of dissolved O2 concentrations in the Mediterranean Sea between 2012 and 2023 by developing a gridded product at monthly resolution and assessing the changes in O2 concentration over time. For practical reasons, we are only looking at 12 years of data, so no long-time trend can be detected. However, we can have some indications of fluctuation over time and can use this as a strating point for any future assessment. In situ measurements of O2 will be provided from the BGC-Argo+ dataset, currently being developed by the [HI-Cycles group](https://bushinskyoceanlab.org/) at the University of Hawai'i at Mānoa. 
 
-- How would increasing or decreasing the number of observations as well as changing
-sampling locations affect the mapped output and, therefore, the estimated deoxygenation
-trends?
-- How does increasing the spatiotemporal resolution of the gridded product affect
-estimates of deoxygenation trends on a regional scale?
+This challenge can possibly be extended beyond the duration of the summer school.
 
-Through this project, we aim to gain a deeper understanding on how (i) sample distribution
-biases model output, and how this information can be used in uncertainty quantification and
-(ii) different gridded-product resolutions affect mapped O2 variability and deoxygenation
-trends. This challenge can possibly be extended beyond the duration of the summer school.
 
-## Recommended reading material
+## Jump in the notebook
 
-- Sharp et al. (2023): [https://doi.org/10.5194/essd-15-4481-2023](https://doi.org/10.5194/essd-15-4481-2023)
-- Ito et al. (2024): [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JH000272](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JH000272)
+All experiments are designed to run using **Google Colab**.
+
+Click the badge below to launch the baseline notebook directly in Google Colab: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iwo4rDZ3-wYxjzKiemVULqNOIJwu9LXY?usp=sharing)
+
+## Understanding the problem
+[Here](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation/slides/Intro_presentation.pdf) is a presentation to introduce you to the challenge.
+
+---
+
+## Challenge Objectives
+
+You are free to exlpore the data and investigate any questions that you might find interesting, but please check its feasibility with me before getting started to make sure you have enough time to complete your challenge in the prescribed time. Here are some suggested topics for you to delve on:
+
+Some ideas you might want to explore include: 
+
+- What are the effects of mapping at higher spatial resolution? 
+- What would happen by adding more observations or reducing the number we currently have? How can this inform future sampling strategies?
+- How can uncertainty be quantified and included in the final product that you deliver?
+- What is the impact of marine heatwaves on O2 concentrations? 
