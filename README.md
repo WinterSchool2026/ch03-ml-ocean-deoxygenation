@@ -30,9 +30,7 @@ Potential additional data: [A consistent regional dataset of dissolved oxygen in
 
 ## Challenge Objectives
 
-You are free to exlpore the data and investigate any questions that you might find interesting, but please check its feasibility with me before getting started to make sure you have enough time to complete your challenge in the prescribed time. Here are some suggested topics for you to delve on:
-
-Some ideas you might want to explore include: 
+You are free to explore the data and investigate any questions that you might find interesting, but please check its feasibility with me before getting started to make sure you have enough time to complete your challenge in the prescribed time. Here are some suggested topics for you to delve on:
 
 - What are the effects of mapping at higher spatial resolution? 
 - What would happen by adding more observations or reducing the number we currently have? How can this inform future sampling strategies?
