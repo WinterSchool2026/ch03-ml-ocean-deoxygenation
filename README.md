@@ -15,7 +15,7 @@ Click the badge below to launch the baseline notebook directly in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iwo4rDZ3-wYxjzKiemVULqNOIJwu9LXY?usp=sharing)
 
 ## Understanding the problem
-[Here](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation/slides/Intro_presentation.pdf) is a presentation to introduce you to the challenge.
+[Here](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation/blob/main/ELLIS%20WinterSchool.pptx) is a presentation to introduce you to the challenge.
 
 
 ## Useful reading material
